@@ -2,7 +2,7 @@
 
 # Mi Card
 
-![App Brewery Banner](https://imgur.com/a/KqpSaHG)
+![App Brewery Banner](https://i.imgur.com/M5AozmK.png)
 
 ## Description 
 
