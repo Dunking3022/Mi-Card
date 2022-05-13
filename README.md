@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 # Mi Card
 
@@ -7,3 +7,5 @@
 ## Description 
 
 A Simple virtual card app using flutter.
+
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
