@@ -7,5 +7,6 @@
 ## Description 
 
 A Simple virtual card app using flutter.
+Fork of Mi Card by App Brewery.
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
